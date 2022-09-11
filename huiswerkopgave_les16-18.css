@@ -32,7 +32,7 @@ header{
   background-size: cover;
 }
 h1{
-  color: Magenta;
+  color: SeaGreen;
   text-align: center;
 }
 .one{
@@ -41,7 +41,7 @@ h1{
   padding-top: 15px;
   padding-right: 15px;
   padding-left: 15px;
-  padding-bottom: 900px;
+  padding-bottom: 810px;
 }
 .two{
   background-color: PowderBlue;
