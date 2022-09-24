@@ -11,6 +11,9 @@
   }
   .one{
     background-color: white;
+    height: 100%;
+    padding: 5%;
+    text-align: left;
   }
 }
 .col-1 {width: 8.33%;}
@@ -24,32 +27,35 @@
 .col-9 {width: 75%;}
 .col-11 {width: 91.66%;}
 .col-12 {width: 100%;}
-header{
+body{
   font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+}
+header{
   background-image: url('Nieuwegein.jpg');
   background-position: center;
   height: 200px;
   background-size: cover;
 }
 h1{
-  color: ForestGreen;
+  color: magenta;
   text-align: center;
 }
 .one{
   background-color: Gold;
   height: 100%;
-  padding-top: 15px;
-  padding-right: 15px;
-  padding-left: 15px;
-  padding-bottom: 810px;
+  padding: 5%;
+  text-align: left;
 }
 .two{
   background-color: PowderBlue;
-  padding: 15px;
+  height: 100%;
+  padding: 1%;
+  text-align: left;
 }
 img{
-  height: 300px;
-  width: auto;
+  height: auto;
+  width: 30%;
   float: right;
-  padding-left: 10px;
+  padding-left: 0.5%;
 }
